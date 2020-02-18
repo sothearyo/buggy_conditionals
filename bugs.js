@@ -21,3 +21,4 @@ else {
     console.log("Time to play with my pet");
 }
 
+// Output: Hi Robert, Time to play with my pet
